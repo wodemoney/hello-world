@@ -1,2 +1,2 @@
 # hello-world
-begin to learn 
+begin to learn go 
